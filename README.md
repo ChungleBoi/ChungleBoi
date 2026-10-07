@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+>"Patience is bitter, but its fruit is sweet."
+>
+>— Aristotle
 <!--
 **ChungleBoi/ChungleBoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
